@@ -1,4 +1,4 @@
-## HOW TO BUILD FOR 3DS
+# HOW TO BUILD FOR 3DS
 This command sequence will show you how to build FTPD as 3DSX.
 ```bash
 git clone https://github.com/git-effl/ftpd.git
